@@ -9,7 +9,7 @@
 	<h1 style="color: grey; font-size: 40px;" align="center">we are done with ci/cd</h1>
 	
 	<h1 style="color: black; font-height: 40px;" align="center">we are done with nexus also</h1>
-        <h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
+       
 	
 	
 	
